@@ -1,0 +1,92 @@
+body{
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,sans-serif;
+    background-color: #f5f5f5;
+    
+}
+
+.mt-1{
+    margin-left: 0.313rem;
+    color: #f68b1e;
+}
+
+.image-responsive{
+  max-width: 8.750rem;
+  display: block;
+  height: auto;
+  margin-left: 4.688rem;
+}
+
+.mt-2{
+    position: sticky;
+    top: 0rem;
+}
+
+.input-group{
+    width: 28.125rem;
+}
+
+a{
+    font-size: 0.75rem;
+    color: black;
+    margin-left: 0.938rem;
+    font-weight: 400;
+}
+.dropright:hover>.dropdown-menu{
+    display: inline-block;
+}
+
+.img-jm1{
+    float: right;
+    margin-top: -24.063rem;
+    margin-right: 7.5rem;
+}
+
+.img-jm2{
+    float: right;
+    margin-top: -11.250rem;
+    margin-right: 7.5rem;
+}
+
+.img-shop{
+    margin-right: 0.938rem;
+}
+.link-shop{
+    font-size: 0.938rem;
+    font-weight: 500;
+}
+
+.img-express{
+    margin-right: 0.938rem;
+}
+
+.link-Express{
+    font-size: 0.938rem;
+    font-weight: 500;
+}
+
+.img-prime{
+    margin-right: 0.938rem;
+}
+
+.link-prime{
+    font-size: 0.938rem;
+    font-weight: 500;
+}
+
+.link-food{
+    font-size: 0.938rem;
+    font-weight: 500;
+}
+
+.img-food{
+    margin-right: 0.938rem;
+}
+
+.d-block{
+    height: 23.438rem;
+}
+
+.img-table1{
+    height: 12.5rem;
+}
+
